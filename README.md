@@ -9,10 +9,10 @@ I am a passionate and driven individual pursuing a Master's in Big Data and AI, 
 
 
 ### Skills 🛠️
-- 🤖 Machine Learning: Supervised, Unsupervised, Reinforcement, and Deep Learning
+- 🤖 Machine Learning: Supervised, Unsupervised, and Deep Learning
 - 📊 Data Preprocessing and Cleaning
 - 📈 Statistical Analysis and Predictive Modeling
-- 🐍 Python: Flask, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, PyTorch, Keras, PySpark, Scrapy, BeautifulSoup, etc.
+- 🐍 Python: Flask, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, PyTorch, Keras, PySpark, Scrapy, BeautifulSoup, etc.
 - 🗄️ SQL and Databases: MongoDB, PostgreSQL
 - 📊 Data Visualization: Tableau, Power BI
 - ☁️ Cloud: Familiarity with AWS
